@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 5c70d4f2e77852d449d3d77f4a59cf81
+timeCreated: 1481254813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PeachCh-Dirty_0
+    21300002: PeachCh-Dirty_1
+    21300004: PeachCh-Dirty_2
+    21300006: PeachCh-Dirty_3
+    21300008: PeachCh-Dirty_4
+    21300010: PeachCh-Dirty_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PeachCh-Dirty_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 396
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 44.5}
+        - {x: -30, y: 44.5}
+        - {x: -48, y: 38.5}
+        - {x: -63, y: 6.5}
+        - {x: -63, y: -30.5}
+        - {x: -40, y: -44.5}
+        - {x: 39, y: -44.5}
+        - {x: 63, y: -26.5}
+        - {x: 63, y: 0.5}
+        - {x: 53, y: 22.5}
+    - name: PeachCh-Dirty_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 396
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 44.5}
+        - {x: -30, y: 44.5}
+        - {x: -63, y: 15.5}
+        - {x: -63, y: -26.5}
+        - {x: -51, y: -44.5}
+        - {x: 47, y: -44.5}
+        - {x: 63, y: -18.5}
+        - {x: 63, y: 7.5}
+        - {x: 36, y: 35.5}
+    - name: PeachCh-Dirty_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 396
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 38.5}
+        - {x: 13, y: 44.5}
+        - {x: -23, y: 44.5}
+        - {x: -63, y: 0.5}
+        - {x: -63, y: -33.5}
+        - {x: -36, y: -44.5}
+        - {x: 47, y: -44.5}
+        - {x: 63, y: -18.5}
+        - {x: 63, y: 9.5}
+    - name: PeachCh-Dirty_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 282
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 44.5}
+        - {x: -63, y: 1.5}
+        - {x: -63, y: -26.5}
+        - {x: -46, y: -44.5}
+        - {x: 37, y: -44.5}
+        - {x: 63, y: -33.5}
+        - {x: 63, y: 3.5}
+        - {x: 14, y: 44.5}
+    - name: PeachCh-Dirty_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 284
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 44.5}
+        - {x: -21, y: 44.5}
+        - {x: -63, y: 20.5}
+        - {x: -63, y: -31.5}
+        - {x: -52, y: -44.5}
+        - {x: 37, y: -44.5}
+        - {x: 63, y: -30.5}
+        - {x: 63, y: -1.5}
+        - {x: 35, y: 39.5}
+    - name: PeachCh-Dirty_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 282
+        width: 126
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 44}
+        - {x: -63, y: 10}
+        - {x: -63, y: -21}
+        - {x: -48, y: -44}
+        - {x: 58, y: -44}
+        - {x: 63, y: -30}
+        - {x: 63, y: 15}
+        - {x: 24, y: 44}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
